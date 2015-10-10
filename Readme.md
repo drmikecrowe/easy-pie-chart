@@ -1,3 +1,8 @@
+# Fork to remove requirejs dependency for angular
+
+NOT READY FOR PRIME TIME
+
+
 # easy-pie-chart
 
 > Lightweight plugin to render simple, animated and retina optimized pie charts
